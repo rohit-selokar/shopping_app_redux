@@ -25,6 +25,8 @@ const Product = () => {
         dispatch(add(product));
     }
 
+    // jjjkk
+
   return(        
         <div className="grid grid-cols-2 mx-2 p-3 gap-5 md:mx-12 md:grid-cols-3 lg:grid-cols-4 xl:grid-cols-5">
         {
